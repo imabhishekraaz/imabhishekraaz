@@ -38,17 +38,17 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=imabhishekraaz&show_icons=true&theme=radical" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=imabhishekraaz&theme=radical" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabhishekraaz&layout=compact&theme=radical" />
-</p>
+</p> -->
 
 ---
 
@@ -61,6 +61,16 @@
 ---
 
 ## 📌 Featured Projects
+
+### 🧺 Laundry Mart (Online Laundry Service Platform)
+- 🛒 Built a complete **online laundry booking system**
+- 📦 Features: Order placement, service selection, pricing system
+- 📱 Responsive UI for mobile & desktop
+- ⚙️ Tech Used: HTML, Tailwind CSS, JavaScript (update if needed)
+- 💡 Focused on solving real-world local business problem
+
+🔗 Live Demo: https://imabhishekraaz.github.io/Laundry-mart/
+🔗 GitHub Repo: https://github.com/imabhishekraaz/Laundry-mart
 
 ---
 
