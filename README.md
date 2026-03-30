@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhi</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Builder | SaaS Creator</h3>
+<h3 align="center">🚀 Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;AI+Builder;SaaS+Creator;Automation+Enthusiast&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;&center=true&width=500&height=50">
 </p>
 
 <p align="center">
