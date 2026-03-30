@@ -12,9 +12,6 @@
 ---
 
 ## 🧑‍💻 About Me
-- 🔭 Building **AI-powered SaaS products**
-- 🤖 Working on **Automation & Bots (Telegram + Crypto)**
-- 💰 Exploring **Make Money Online + Tech Systems**
 - 📈 Learning **DSA + Full Stack AI Development**
 - 🎯 Goal: Become a **Top 1% AI Engineer**
 
@@ -42,15 +39,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=imabhishekraaz&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imabhishekraaz&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imabhishekraaz&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -58,38 +55,25 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imabhishekraaz&theme=react-dark" />
 </p>
 
 ---
 
 ## 📌 Featured Projects
-- 🚀 AI SaaS PDF Editor  
-- 🤖 Telegram Automation Bot  
-- 💰 Meme Coin Tracking Bot  
-- 🧠 DSA Practice & Algorithms  
 
 ---
 
 ## 🌍 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://www.linkedin.com/in/abhishekraz/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/YOUR_LINK">
+  <!-- <a href="https://twitter.com/YOUR_LINK">
     <img src="https://skillicons.dev/icons?i=twitter" />
-  </a>
-  <a href="mailto:YOUR_EMAIL">
+  </a> -->
+  <a href="mailto:ffabhishek116@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-
----
-
-## ⚡ Fun Fact
-> I don't just write code — I build systems that generate income 💸
-
----
-
-⭐️ **If you like my work, follow me and check out my repositories!**
