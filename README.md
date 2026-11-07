@@ -5,10 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;&center=true&width=500&height=50">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imabhishekraaz&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
 ---
 
 ## 🧑‍💻 About Me
@@ -23,10 +19,7 @@
   <a href="https://www.linkedin.com/in/abhishekraz/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <!-- <a href="https://twitter.com/YOUR_LINK">
-    <img src="https://skillicons.dev/icons?i=twitter" />
-  </a> -->
-  <a href="mailto:ffabhishek116@gmail.com">
+  <a href="mailto:abhishekraz.work@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
